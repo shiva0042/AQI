@@ -25,7 +25,6 @@ env/
 .DS_Store
 *.log
 .jupyter_cache/
-.streamlit/
 *.ipynb_checkpoints
 .vscode/
 .idea/
