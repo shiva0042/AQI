@@ -1,0 +1,721 @@
+city,station,latitude,longitude,date,aqi,aqi_level,pm25,pm10,o3,no2,so2,co
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-01-01,31.72,Good,15.04,24.12,52.96,12.1,27.72,1.63
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-01-01,37.56,Good,29.03,26.1,56.54,24.52,38.81,1.96
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-01-01,59.05,Moderate,31.74,41.76,46.17,32.52,15.46,0.64
+Salem,Salem - AQ Station,11.6643,78.1456,2020-01-01,80.51,Moderate,62.63,69.8,25.1,47.79,29.49,1.48
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-01-01,40.85,Good,20.66,20.7,26.16,13.59,5.01,0.87
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-01-01,64.56,Moderate,49.06,55.03,40.17,38.04,38.19,2.16
+Erode,Erode - AQ Station,11.3919,77.7172,2020-01-01,79.5,Moderate,48.71,60.72,51.74,26.51,27.5,0.76
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-01-01,62.22,Moderate,36.38,45.31,40.51,12.13,17.2,1.85
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-01-01,24.05,Good,10.98,14.3,20.02,17.88,6.95,2.43
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-01-01,36.42,Good,15.72,22.2,22.83,25.19,20.61,0.95
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-02-01,84.28,Moderate,50.25,68.0,58.78,37.87,38.59,2.19
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-02-01,79.46,Moderate,42.95,51.75,29.22,17.45,8.06,0.79
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-02-01,24.25,Good,27.55,16.22,42.9,42.35,15.02,2.78
+Salem,Salem - AQ Station,11.6643,78.1456,2020-02-01,89.56,Moderate,57.55,67.73,48.74,49.24,22.67,0.99
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-02-01,40.51,Good,20.26,42.03,47.55,34.76,33.14,1.48
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-02-01,84.82,Moderate,51.76,82.39,55.5,48.56,32.45,0.99
+Erode,Erode - AQ Station,11.3919,77.7172,2020-02-01,59.93,Moderate,38.37,50.82,54.61,31.69,36.82,2.05
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-02-01,40.13,Good,23.85,40.11,31.2,31.64,6.66,1.29
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-02-01,79.4,Moderate,45.28,66.04,58.98,32.09,6.72,2.23
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-02-01,66.43,Moderate,41.12,44.96,41.76,43.23,20.45,1.76
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-03-01,39.33,Good,25.67,25.89,54.52,22.83,15.58,2.08
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-03-01,31.1,Good,16.75,30.3,31.67,13.81,22.16,1.51
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-03-01,61.76,Moderate,40.84,50.05,27.13,10.65,13.59,2.06
+Salem,Salem - AQ Station,11.6643,78.1456,2020-03-01,54.79,Moderate,37.55,40.54,59.65,18.09,18.65,2.78
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-03-01,70.36,Moderate,44.3,57.34,55.68,26.67,9.59,1.61
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-03-01,56.22,Moderate,24.74,51.18,51.48,28.86,33.32,2.31
+Erode,Erode - AQ Station,11.3919,77.7172,2020-03-01,50.72,Moderate,31.43,57.17,41.63,38.64,35.13,2.04
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-03-01,63.39,Moderate,28.37,51.87,59.86,12.51,9.81,0.72
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-03-01,75.48,Moderate,41.0,55.51,20.37,32.17,39.44,2.84
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-03-01,84.19,Moderate,48.86,66.07,47.15,26.91,27.8,2.94
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-04-01,45.12,Good,31.88,31.19,53.99,17.95,12.88,2.23
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-04-01,32.67,Good,33.93,28.45,30.53,29.91,25.02,1.31
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-04-01,35.4,Good,20.17,23.47,39.33,17.06,37.41,1.66
+Salem,Salem - AQ Station,11.6643,78.1456,2020-04-01,45.14,Good,32.7,22.01,42.67,14.45,29.35,0.99
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-04-01,69.07,Moderate,43.67,51.48,23.43,22.42,17.72,1.26
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-04-01,37.76,Good,16.36,19.45,40.38,31.95,16.19,2.74
+Erode,Erode - AQ Station,11.3919,77.7172,2020-04-01,77.4,Moderate,56.89,51.11,32.76,44.87,18.18,1.81
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-04-01,59.95,Moderate,33.28,49.41,33.77,12.35,26.29,1.55
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-04-01,58.04,Moderate,32.22,45.49,39.78,27.08,14.54,2.63
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-04-01,32.05,Good,15.16,32.69,54.55,16.77,34.46,1.89
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-05-01,70.54,Moderate,47.11,55.0,47.23,19.8,30.58,0.79
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-05-01,78.29,Moderate,46.68,55.58,42.62,22.46,24.73,1.81
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-05-01,57.66,Moderate,26.91,41.67,51.77,44.41,23.09,2.54
+Salem,Salem - AQ Station,11.6643,78.1456,2020-05-01,55.04,Moderate,33.15,32.52,51.44,11.8,38.48,1.45
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-05-01,65.05,Moderate,41.32,61.08,43.65,21.79,20.24,2.03
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-05-01,39.54,Good,21.84,26.6,40.44,32.81,22.35,1.68
+Erode,Erode - AQ Station,11.3919,77.7172,2020-05-01,112.3,Unhealthy for Sensitive,69.53,79.88,52.89,18.7,25.84,0.55
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-05-01,74.43,Moderate,45.95,74.32,29.37,37.52,11.56,2.41
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-05-01,100.19,Unhealthy for Sensitive,49.15,84.9,23.9,48.77,18.5,2.48
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-05-01,81.94,Moderate,56.19,83.72,47.28,22.04,14.28,2.65
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-06-01,85.96,Moderate,47.53,77.55,34.01,49.61,35.12,1.86
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-06-01,97.16,Moderate,58.18,90.48,27.56,38.31,39.71,1.98
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-06-01,100.68,Unhealthy for Sensitive,72.7,83.34,48.41,31.28,11.45,1.39
+Salem,Salem - AQ Station,11.6643,78.1456,2020-06-01,42.72,Good,28.64,43.94,21.22,14.59,13.39,2.14
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-06-01,55.95,Moderate,25.68,42.64,34.83,20.79,32.23,0.56
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-06-01,76.84,Moderate,41.5,67.44,36.88,12.8,37.09,2.74
+Erode,Erode - AQ Station,11.3919,77.7172,2020-06-01,52.76,Moderate,32.83,39.96,51.19,16.48,21.11,2.75
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-06-01,72.66,Moderate,39.35,55.13,42.65,21.73,39.86,2.67
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-06-01,79.92,Moderate,54.41,69.04,58.49,24.13,30.17,2.49
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-06-01,71.15,Moderate,45.26,48.65,40.91,43.04,26.44,1.32
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-07-01,110.12,Unhealthy for Sensitive,61.75,106.52,54.52,48.8,21.44,1.05
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-07-01,91.54,Moderate,60.25,84.45,20.98,46.18,29.57,0.68
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-07-01,103.58,Unhealthy for Sensitive,60.18,89.7,42.74,11.78,27.7,0.74
+Salem,Salem - AQ Station,11.6643,78.1456,2020-07-01,63.71,Moderate,29.35,48.84,39.61,19.22,16.78,1.63
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-07-01,87.57,Moderate,56.2,66.59,34.46,47.72,20.01,2.25
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-07-01,101.56,Unhealthy for Sensitive,61.43,76.75,45.22,25.83,11.46,2.19
+Erode,Erode - AQ Station,11.3919,77.7172,2020-07-01,51.74,Moderate,27.83,28.56,48.41,41.06,33.15,2.97
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-07-01,84.52,Moderate,57.01,75.93,20.83,28.57,16.51,1.81
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-07-01,84.46,Moderate,45.01,72.3,21.2,49.51,22.94,1.19
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-07-01,109.35,Unhealthy for Sensitive,71.42,98.39,55.86,34.14,37.07,1.8
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-08-01,114.01,Unhealthy for Sensitive,76.81,91.81,20.02,34.49,16.47,1.61
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-08-01,94.81,Moderate,56.7,81.2,20.12,18.07,21.63,2.17
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-08-01,45.26,Good,37.57,23.38,49.6,10.96,5.94,0.99
+Salem,Salem - AQ Station,11.6643,78.1456,2020-08-01,85.05,Moderate,53.32,75.74,44.09,34.63,26.83,1.24
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-08-01,107.16,Unhealthy for Sensitive,67.48,82.42,31.68,28.49,36.5,2.9
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-08-01,54.48,Moderate,31.16,52.63,34.23,10.0,34.53,0.71
+Erode,Erode - AQ Station,11.3919,77.7172,2020-08-01,103.18,Unhealthy for Sensitive,58.54,90.34,41.47,39.47,5.54,1.22
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-08-01,103.37,Unhealthy for Sensitive,54.76,81.05,46.59,28.13,29.95,2.58
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-08-01,82.24,Moderate,45.27,73.19,51.75,17.81,35.82,1.72
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-08-01,69.57,Moderate,41.59,54.91,47.12,25.23,38.05,2.24
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-09-01,131.32,Unhealthy for Sensitive,74.3,109.43,59.5,37.46,25.24,1.37
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-09-01,121.22,Unhealthy for Sensitive,64.41,89.76,28.55,26.55,8.49,2.73
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-09-01,120.73,Unhealthy for Sensitive,68.0,100.0,27.79,21.97,9.11,2.64
+Salem,Salem - AQ Station,11.6643,78.1456,2020-09-01,66.48,Moderate,38.23,82.71,56.73,39.86,12.33,0.88
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-09-01,32.75,Good,25.01,35.55,50.04,20.2,14.19,2.9
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-09-01,62.84,Moderate,37.46,44.16,33.27,15.8,11.64,1.75
+Erode,Erode - AQ Station,11.3919,77.7172,2020-09-01,80.61,Moderate,42.82,68.48,44.3,37.56,23.44,0.73
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-09-01,45.59,Good,31.53,40.67,27.8,19.28,30.67,1.41
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-09-01,73.26,Moderate,40.53,65.31,42.89,29.85,7.86,1.47
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-09-01,126.64,Unhealthy for Sensitive,73.52,108.41,28.88,41.94,32.34,1.31
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-10-01,83.26,Moderate,44.73,64.76,59.96,24.15,19.74,2.54
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-10-01,79.27,Moderate,44.15,66.4,35.19,35.74,11.68,2.83
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-10-01,83.28,Moderate,47.41,65.74,31.26,33.57,9.55,2.73
+Salem,Salem - AQ Station,11.6643,78.1456,2020-10-01,53.84,Moderate,35.27,34.29,20.13,44.88,32.31,2.85
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-10-01,104.42,Unhealthy for Sensitive,59.44,83.71,26.06,30.02,36.88,1.66
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-10-01,61.78,Moderate,45.68,43.32,34.79,38.35,8.64,1.87
+Erode,Erode - AQ Station,11.3919,77.7172,2020-10-01,70.31,Moderate,41.54,58.09,58.98,18.65,32.64,0.79
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-10-01,92.07,Moderate,55.8,83.5,53.01,39.57,31.12,0.6
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-10-01,97.2,Moderate,56.76,71.15,53.0,32.13,22.95,2.87
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-10-01,78.33,Moderate,40.44,81.98,27.98,47.32,37.44,1.65
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-11-01,55.08,Moderate,35.36,41.65,49.61,20.83,30.58,1.34
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-11-01,34.81,Good,16.37,37.71,49.66,15.63,10.71,0.66
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-11-01,55.84,Moderate,37.76,26.92,43.74,31.42,25.43,1.68
+Salem,Salem - AQ Station,11.6643,78.1456,2020-11-01,25.28,Good,17.28,27.48,53.33,12.03,38.95,1.49
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-11-01,77.9,Moderate,46.93,54.27,37.11,20.75,18.39,2.21
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-11-01,54.26,Moderate,40.9,41.75,42.61,44.31,36.7,1.86
+Erode,Erode - AQ Station,11.3919,77.7172,2020-11-01,63.73,Moderate,26.24,50.5,21.08,34.28,5.2,1.6
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-11-01,39.61,Good,28.54,21.57,44.6,10.62,20.07,2.16
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-11-01,22.64,Good,17.59,30.21,44.87,12.81,6.49,2.97
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-11-01,75.26,Moderate,46.71,67.11,40.38,14.38,32.47,0.79
+Chennai,Chennai - AQ Station,13.0827,80.2707,2020-12-01,38.87,Good,17.62,24.93,44.09,12.19,13.36,0.76
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2020-12-01,79.71,Moderate,41.42,74.19,49.32,45.52,38.76,2.56
+Madurai,Madurai - AQ Station,9.9252,78.1198,2020-12-01,66.73,Moderate,35.88,53.56,37.98,32.43,21.31,1.49
+Salem,Salem - AQ Station,11.6643,78.1456,2020-12-01,25.47,Good,19.93,35.82,34.26,40.54,8.19,2.91
+Trichy,Trichy - AQ Station,10.7905,78.696,2020-12-01,44.68,Good,22.15,52.09,34.7,36.76,37.66,1.53
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2020-12-01,59.11,Moderate,31.11,60.46,56.47,45.59,31.68,1.16
+Erode,Erode - AQ Station,11.3919,77.7172,2020-12-01,52.84,Moderate,32.22,29.85,44.04,44.7,7.05,2.69
+Vellore,Vellore - AQ Station,12.9716,79.1339,2020-12-01,27.31,Good,10.79,21.06,32.72,39.7,32.09,1.4
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2020-12-01,57.82,Moderate,25.73,39.52,24.15,25.36,36.06,1.3
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2020-12-01,50.4,Moderate,28.8,38.18,50.43,47.76,36.33,1.88
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-01-01,26.49,Good,14.18,9.81,37.75,33.18,10.08,2.73
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-01-01,76.3,Moderate,37.58,59.56,24.52,16.25,7.02,1.97
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-01-01,64.56,Moderate,40.21,56.5,37.84,44.65,15.68,2.89
+Salem,Salem - AQ Station,11.6643,78.1456,2021-01-01,56.32,Moderate,43.07,33.29,58.32,44.52,21.3,2.63
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-01-01,72.52,Moderate,38.03,52.57,43.48,16.89,33.83,2.24
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-01-01,30.43,Good,15.28,14.29,21.25,21.53,15.64,1.95
+Erode,Erode - AQ Station,11.3919,77.7172,2021-01-01,76.88,Moderate,43.84,60.33,53.54,32.39,28.97,1.73
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-01-01,54.91,Moderate,33.44,52.78,54.32,12.37,35.79,0.65
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-01-01,21.99,Good,19.85,21.84,33.2,41.27,7.56,2.75
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-01-01,92.68,Moderate,55.89,77.12,49.96,43.06,17.7,2.31
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-02-01,43.53,Good,19.6,36.29,35.01,39.35,32.79,2.68
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-02-01,78.35,Moderate,50.64,56.44,56.44,25.54,7.24,2.37
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-02-01,58.4,Moderate,29.98,47.63,21.42,12.61,30.5,1.97
+Salem,Salem - AQ Station,11.6643,78.1456,2021-02-01,32.82,Good,23.97,15.79,32.28,14.38,22.3,0.76
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-02-01,57.49,Moderate,23.42,40.08,52.47,28.17,5.6,2.65
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-02-01,44.0,Good,30.72,37.29,23.63,24.52,26.78,0.91
+Erode,Erode - AQ Station,11.3919,77.7172,2021-02-01,70.01,Moderate,45.2,54.93,47.35,13.15,6.73,1.41
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-02-01,37.59,Good,12.48,23.52,36.81,12.37,9.83,2.56
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-02-01,62.68,Moderate,34.14,34.59,59.85,10.68,17.88,2.89
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-02-01,86.33,Moderate,55.44,81.14,36.24,18.09,16.49,2.27
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-03-01,80.89,Moderate,42.18,61.73,56.42,35.5,21.34,1.88
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-03-01,42.57,Good,25.88,47.15,30.81,37.63,22.19,1.01
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-03-01,63.33,Moderate,31.27,48.53,53.68,49.87,40.0,0.76
+Salem,Salem - AQ Station,11.6643,78.1456,2021-03-01,54.72,Moderate,31.45,39.18,39.18,25.92,24.64,2.19
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-03-01,44.78,Good,29.11,36.4,32.66,14.5,38.17,2.3
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-03-01,40.4,Good,28.17,27.34,24.49,18.59,21.62,1.25
+Erode,Erode - AQ Station,11.3919,77.7172,2021-03-01,37.4,Good,24.27,16.84,42.81,35.57,29.69,2.7
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-03-01,49.93,Good,30.52,37.52,59.87,45.44,7.79,2.88
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-03-01,77.15,Moderate,51.47,56.05,57.19,30.91,26.13,1.36
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-03-01,49.63,Good,25.79,28.16,42.42,38.12,29.27,1.76
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-04-01,36.17,Good,17.85,37.55,36.28,19.89,10.66,1.52
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-04-01,61.69,Moderate,32.24,47.7,21.84,41.4,13.34,0.66
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-04-01,65.03,Moderate,43.29,50.04,42.12,18.63,21.35,1.98
+Salem,Salem - AQ Station,11.6643,78.1456,2021-04-01,59.93,Moderate,33.24,43.05,56.29,11.37,22.59,1.21
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-04-01,72.38,Moderate,39.52,52.32,22.03,31.63,7.82,1.02
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-04-01,65.73,Moderate,38.94,61.87,28.26,29.61,20.39,0.88
+Erode,Erode - AQ Station,11.3919,77.7172,2021-04-01,37.33,Good,24.8,36.09,22.1,34.34,39.98,2.94
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-04-01,67.93,Moderate,34.0,50.53,45.75,32.04,11.53,0.75
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-04-01,44.51,Good,18.8,28.49,49.94,37.2,13.31,1.87
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-04-01,71.84,Moderate,39.76,48.48,53.3,10.95,21.68,1.39
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-05-01,62.01,Moderate,46.98,48.3,35.01,13.2,38.99,0.97
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-05-01,74.23,Moderate,42.77,58.77,34.47,24.41,38.1,2.54
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-05-01,58.15,Moderate,37.87,38.02,32.63,12.06,9.01,1.94
+Salem,Salem - AQ Station,11.6643,78.1456,2021-05-01,115.48,Unhealthy for Sensitive,72.83,87.55,58.62,34.31,9.72,1.51
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-05-01,69.64,Moderate,36.57,48.18,49.73,21.2,16.03,2.01
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-05-01,96.32,Moderate,59.92,81.39,22.99,23.01,8.34,1.38
+Erode,Erode - AQ Station,11.3919,77.7172,2021-05-01,55.17,Moderate,35.89,56.27,39.35,14.48,30.25,0.86
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-05-01,116.89,Unhealthy for Sensitive,77.32,89.97,30.08,46.4,12.97,1.83
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-05-01,79.01,Moderate,47.35,56.03,54.49,48.5,21.3,1.27
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-05-01,51.63,Moderate,37.36,45.08,54.01,28.88,24.62,0.97
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-06-01,54.29,Moderate,31.59,50.59,28.07,46.26,13.54,0.72
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-06-01,127.15,Unhealthy for Sensitive,69.29,100.48,31.95,45.37,30.49,0.96
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-06-01,88.81,Moderate,46.65,76.8,44.14,18.53,9.65,1.28
+Salem,Salem - AQ Station,11.6643,78.1456,2021-06-01,117.25,Unhealthy for Sensitive,76.62,104.84,25.49,37.68,20.75,1.85
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-06-01,83.58,Moderate,48.61,72.76,43.91,38.79,24.61,0.56
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-06-01,107.38,Unhealthy for Sensitive,72.84,90.01,42.63,37.45,29.04,1.74
+Erode,Erode - AQ Station,11.3919,77.7172,2021-06-01,66.76,Moderate,33.45,52.76,51.65,49.29,39.71,1.13
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-06-01,67.31,Moderate,38.89,38.43,26.07,23.42,12.62,2.26
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-06-01,108.54,Unhealthy for Sensitive,63.08,82.05,30.57,17.67,18.68,1.46
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-06-01,130.4,Unhealthy for Sensitive,81.79,100.32,28.4,10.75,19.71,1.56
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-07-01,96.37,Moderate,56.19,71.04,44.73,19.43,16.56,1.11
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-07-01,106.44,Unhealthy for Sensitive,67.61,97.93,30.07,13.01,27.38,1.74
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-07-01,67.28,Moderate,53.95,49.96,43.25,46.84,22.71,1.57
+Salem,Salem - AQ Station,11.6643,78.1456,2021-07-01,117.06,Unhealthy for Sensitive,78.2,88.63,33.21,26.99,27.69,1.99
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-07-01,79.89,Moderate,47.46,55.66,24.43,41.51,27.78,0.75
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-07-01,75.6,Moderate,49.58,54.56,33.21,47.87,9.78,2.8
+Erode,Erode - AQ Station,11.3919,77.7172,2021-07-01,44.16,Good,21.43,28.44,44.83,31.02,26.72,1.91
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-07-01,87.37,Moderate,50.08,73.55,56.67,43.04,32.52,2.5
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-07-01,87.16,Moderate,47.78,78.74,32.78,46.73,31.42,0.61
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-07-01,113.34,Unhealthy for Sensitive,64.95,88.44,40.63,13.62,20.32,1.44
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-08-01,52.83,Moderate,28.47,40.69,50.92,38.61,38.25,1.94
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-08-01,80.65,Moderate,45.09,62.74,48.88,13.28,39.01,2.14
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-08-01,81.64,Moderate,51.55,63.98,40.7,30.72,39.73,1.67
+Salem,Salem - AQ Station,11.6643,78.1456,2021-08-01,48.15,Good,28.5,43.69,20.07,23.42,37.0,1.51
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-08-01,76.0,Moderate,47.96,57.56,44.78,18.17,27.36,0.67
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-08-01,47.21,Good,32.67,35.16,42.0,49.56,18.19,1.49
+Erode,Erode - AQ Station,11.3919,77.7172,2021-08-01,101.38,Unhealthy for Sensitive,56.72,84.5,45.2,26.02,11.19,2.67
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-08-01,103.96,Unhealthy for Sensitive,53.86,75.83,37.72,38.9,35.32,1.66
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-08-01,86.29,Moderate,55.3,81.5,24.55,45.13,33.51,2.03
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-08-01,96.36,Moderate,60.13,67.71,20.12,22.73,28.68,1.73
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-09-01,76.29,Moderate,44.88,62.33,55.05,27.61,37.42,1.35
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-09-01,90.46,Moderate,51.22,75.25,26.92,29.34,22.15,0.79
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-09-01,34.88,Good,18.4,21.37,37.66,22.55,30.72,1.09
+Salem,Salem - AQ Station,11.6643,78.1456,2021-09-01,91.55,Moderate,63.12,77.24,26.13,23.19,13.65,2.87
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-09-01,39.14,Good,25.38,34.32,47.56,10.22,9.68,0.8
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-09-01,87.48,Moderate,56.22,71.36,58.32,34.11,17.77,2.88
+Erode,Erode - AQ Station,11.3919,77.7172,2021-09-01,34.2,Good,20.21,20.6,26.27,48.3,29.29,2.59
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-09-01,106.78,Unhealthy for Sensitive,72.24,85.89,24.96,22.36,32.34,1.6
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-09-01,76.62,Moderate,56.32,56.92,39.35,23.33,16.23,2.03
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-09-01,98.53,Moderate,60.11,79.96,45.45,35.96,11.8,1.84
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-10-01,107.6,Unhealthy for Sensitive,68.73,76.69,29.09,39.29,9.06,0.93
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-10-01,98.35,Moderate,58.84,83.18,36.88,41.66,10.0,2.71
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-10-01,89.52,Moderate,48.03,70.72,26.78,42.11,8.74,0.73
+Salem,Salem - AQ Station,11.6643,78.1456,2021-10-01,62.84,Moderate,37.1,67.26,42.51,48.12,29.19,0.8
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-10-01,64.95,Moderate,41.67,56.57,45.2,16.3,6.76,1.05
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-10-01,113.17,Unhealthy for Sensitive,73.9,120.27,47.11,31.52,19.6,0.97
+Erode,Erode - AQ Station,11.3919,77.7172,2021-10-01,99.64,Moderate,59.69,71.26,29.15,40.41,9.13,0.99
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-10-01,105.27,Unhealthy for Sensitive,58.94,78.63,26.33,28.33,13.12,2.04
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-10-01,111.76,Unhealthy for Sensitive,69.91,83.29,57.9,37.4,10.02,1.75
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-10-01,81.53,Moderate,41.65,80.24,51.19,33.94,28.29,1.85
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-11-01,34.68,Good,14.77,19.53,23.3,26.98,36.04,2.0
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-11-01,30.94,Good,19.82,20.01,43.97,26.32,8.87,1.6
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-11-01,48.16,Good,16.49,41.66,33.65,31.41,20.43,0.8
+Salem,Salem - AQ Station,11.6643,78.1456,2021-11-01,30.16,Good,17.57,17.26,56.06,12.32,33.62,1.51
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-11-01,57.96,Moderate,32.67,36.79,45.87,14.13,34.24,1.86
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-11-01,86.33,Moderate,54.31,83.82,32.05,48.43,24.44,0.57
+Erode,Erode - AQ Station,11.3919,77.7172,2021-11-01,78.25,Moderate,49.96,50.26,26.64,45.33,36.66,2.12
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-11-01,85.88,Moderate,37.99,66.34,33.54,24.79,24.72,2.25
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-11-01,59.33,Moderate,39.24,46.01,44.17,12.77,12.96,0.78
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-11-01,66.23,Moderate,32.14,59.04,28.06,30.21,24.37,1.65
+Chennai,Chennai - AQ Station,13.0827,80.2707,2021-12-01,43.67,Good,21.43,43.52,30.84,36.45,6.24,0.86
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2021-12-01,82.88,Moderate,50.92,59.84,26.47,25.24,18.08,0.83
+Madurai,Madurai - AQ Station,9.9252,78.1198,2021-12-01,45.17,Good,25.92,32.46,22.35,37.51,19.26,2.77
+Salem,Salem - AQ Station,11.6643,78.1456,2021-12-01,52.9,Moderate,35.79,35.78,45.86,17.34,7.05,1.58
+Trichy,Trichy - AQ Station,10.7905,78.696,2021-12-01,57.59,Moderate,38.06,41.58,32.66,23.5,37.23,1.95
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2021-12-01,56.88,Moderate,27.76,44.12,56.17,11.56,12.48,0.67
+Erode,Erode - AQ Station,11.3919,77.7172,2021-12-01,70.06,Moderate,44.96,55.96,44.3,19.36,29.95,2.88
+Vellore,Vellore - AQ Station,12.9716,79.1339,2021-12-01,50.78,Moderate,24.96,20.44,43.37,21.08,13.13,1.5
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2021-12-01,70.81,Moderate,41.32,55.6,58.32,19.27,5.47,2.26
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2021-12-01,34.16,Good,22.49,15.64,41.63,49.76,9.16,1.69
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-01-01,64.9,Moderate,40.21,56.69,38.46,16.07,32.48,1.85
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-01-01,33.5,Good,20.5,11.55,26.1,44.01,18.98,0.82
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-01-01,74.08,Moderate,41.72,59.58,36.97,27.57,17.72,1.22
+Salem,Salem - AQ Station,11.6643,78.1456,2022-01-01,58.72,Moderate,32.97,52.29,44.98,34.71,36.28,0.8
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-01-01,50.48,Moderate,30.02,50.05,33.98,13.18,32.63,1.93
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-01-01,52.24,Moderate,19.31,50.19,33.86,15.9,5.98,0.63
+Erode,Erode - AQ Station,11.3919,77.7172,2022-01-01,47.47,Good,32.6,43.36,49.92,41.39,16.52,1.82
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-01-01,61.38,Moderate,37.0,56.03,25.19,42.23,28.31,1.32
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-01-01,69.92,Moderate,44.06,49.79,42.72,29.44,21.55,1.11
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-01-01,74.18,Moderate,41.97,51.75,53.99,35.23,12.95,1.32
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-02-01,40.05,Good,19.09,23.7,49.21,36.92,32.86,2.16
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-02-01,47.6,Good,32.28,36.24,29.66,46.14,6.26,1.05
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-02-01,61.45,Moderate,45.21,47.3,26.22,42.95,38.34,1.01
+Salem,Salem - AQ Station,11.6643,78.1456,2022-02-01,47.22,Good,33.36,41.9,59.94,27.03,12.76,2.0
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-02-01,48.27,Good,30.74,36.4,41.71,11.55,20.55,2.35
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-02-01,67.68,Moderate,38.62,61.0,51.45,23.46,13.02,0.76
+Erode,Erode - AQ Station,11.3919,77.7172,2022-02-01,78.81,Moderate,55.11,66.5,44.01,42.15,32.9,1.45
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-02-01,60.18,Moderate,36.75,62.56,29.12,37.12,26.39,1.68
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-02-01,80.09,Moderate,43.89,79.87,42.8,35.59,31.85,1.18
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-02-01,70.72,Moderate,41.23,52.07,38.79,21.35,36.12,0.9
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-03-01,39.81,Good,29.37,30.94,47.74,20.78,26.68,2.37
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-03-01,52.86,Moderate,34.35,43.87,43.99,44.82,31.85,2.87
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-03-01,75.54,Moderate,44.21,61.04,45.84,19.51,38.0,1.78
+Salem,Salem - AQ Station,11.6643,78.1456,2022-03-01,51.72,Moderate,35.64,35.88,54.37,41.63,18.68,2.94
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-03-01,49.61,Good,33.01,30.93,39.73,43.93,22.12,1.48
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-03-01,60.69,Moderate,31.8,53.13,39.19,44.24,38.3,1.25
+Erode,Erode - AQ Station,11.3919,77.7172,2022-03-01,47.0,Good,22.68,31.03,41.05,42.19,27.4,2.61
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-03-01,43.58,Good,18.52,25.43,34.87,21.56,13.76,2.5
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-03-01,70.01,Moderate,33.59,51.98,55.85,44.29,8.31,2.07
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-03-01,64.75,Moderate,33.03,45.34,58.61,38.88,38.92,0.79
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-04-01,32.06,Good,14.19,29.88,35.93,32.01,8.27,1.58
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-04-01,39.52,Good,32.63,17.91,26.31,20.3,24.25,2.73
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-04-01,42.02,Good,17.05,26.8,42.76,46.88,34.04,2.56
+Salem,Salem - AQ Station,11.6643,78.1456,2022-04-01,51.52,Moderate,30.4,40.87,20.45,12.5,12.31,0.93
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-04-01,62.54,Moderate,41.51,68.48,42.42,39.83,16.88,1.56
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-04-01,40.97,Good,34.25,29.83,53.65,22.86,10.99,0.71
+Erode,Erode - AQ Station,11.3919,77.7172,2022-04-01,75.94,Moderate,47.6,44.09,58.46,20.11,29.58,2.84
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-04-01,73.2,Moderate,49.55,32.83,43.56,47.88,25.39,0.9
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-04-01,36.34,Good,24.51,35.7,39.89,19.7,28.14,1.14
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-04-01,68.99,Moderate,32.11,56.76,59.12,14.56,26.57,0.66
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-05-01,63.33,Moderate,36.66,48.57,26.65,31.36,30.45,1.11
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-05-01,54.92,Moderate,34.31,47.28,53.7,34.38,24.76,1.56
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-05-01,86.47,Moderate,53.14,70.72,49.42,20.95,28.02,2.05
+Salem,Salem - AQ Station,11.6643,78.1456,2022-05-01,68.21,Moderate,38.38,58.92,26.29,10.97,25.23,1.0
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-05-01,73.66,Moderate,38.73,65.38,30.07,26.05,26.66,1.82
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-05-01,93.88,Moderate,54.68,71.05,41.98,11.83,25.96,1.38
+Erode,Erode - AQ Station,11.3919,77.7172,2022-05-01,123.12,Unhealthy for Sensitive,70.83,113.7,52.5,24.86,14.27,1.32
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-05-01,109.01,Unhealthy for Sensitive,65.66,78.43,39.19,21.77,22.27,2.18
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-05-01,117.44,Unhealthy for Sensitive,74.99,101.41,45.78,44.43,22.62,2.53
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-05-01,75.03,Moderate,37.96,58.31,30.23,24.55,28.7,0.88
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-06-01,106.83,Unhealthy for Sensitive,64.09,90.55,27.34,26.94,26.83,2.98
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-06-01,80.83,Moderate,46.32,59.23,51.54,15.44,19.56,2.07
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-06-01,96.18,Moderate,55.33,92.16,45.89,29.25,15.55,2.67
+Salem,Salem - AQ Station,11.6643,78.1456,2022-06-01,104.0,Unhealthy for Sensitive,64.35,71.27,48.25,17.08,7.67,2.1
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-06-01,48.94,Good,38.74,30.36,45.9,20.61,35.87,0.77
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-06-01,47.37,Good,35.31,38.61,28.71,24.64,33.73,1.22
+Erode,Erode - AQ Station,11.3919,77.7172,2022-06-01,88.21,Moderate,51.91,81.18,53.02,40.39,16.76,2.37
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-06-01,69.87,Moderate,42.47,59.01,20.27,18.91,7.34,2.69
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-06-01,31.29,Good,19.91,22.28,56.5,17.83,18.77,1.47
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-06-01,85.14,Moderate,43.18,75.05,30.65,14.4,19.19,1.08
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-07-01,124.6,Unhealthy for Sensitive,71.46,101.5,31.79,15.82,33.21,1.13
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-07-01,81.32,Moderate,53.84,62.68,57.25,48.25,7.01,2.75
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-07-01,77.47,Moderate,50.48,81.46,57.78,41.85,11.0,0.89
+Salem,Salem - AQ Station,11.6643,78.1456,2022-07-01,57.6,Moderate,31.87,49.1,48.3,24.64,23.94,2.42
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-07-01,95.14,Moderate,58.32,74.14,51.52,43.32,16.6,2.41
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-07-01,92.94,Moderate,44.14,84.48,35.1,47.34,38.68,0.86
+Erode,Erode - AQ Station,11.3919,77.7172,2022-07-01,100.07,Unhealthy for Sensitive,53.63,86.22,49.67,48.42,17.5,1.25
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-07-01,98.92,Moderate,58.89,89.24,35.21,12.66,32.26,0.81
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-07-01,50.58,Moderate,31.76,38.53,28.91,10.49,9.27,0.83
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-07-01,109.52,Unhealthy for Sensitive,69.75,73.66,21.7,22.96,26.9,2.17
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-08-01,81.67,Moderate,45.46,63.07,44.3,10.81,9.34,1.72
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-08-01,89.51,Moderate,55.78,69.34,24.97,21.51,5.65,1.77
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-08-01,135.17,Unhealthy for Sensitive,79.86,105.21,37.72,28.24,37.94,2.48
+Salem,Salem - AQ Station,11.6643,78.1456,2022-08-01,68.78,Moderate,34.86,65.92,41.06,34.19,19.55,1.91
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-08-01,99.56,Moderate,65.49,83.78,53.45,22.2,26.72,2.62
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-08-01,111.48,Unhealthy for Sensitive,62.02,102.94,43.83,29.37,37.64,0.58
+Erode,Erode - AQ Station,11.3919,77.7172,2022-08-01,113.8,Unhealthy for Sensitive,69.02,76.66,43.71,12.91,23.06,2.92
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-08-01,103.91,Unhealthy for Sensitive,70.51,87.79,26.4,19.97,34.85,1.94
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-08-01,72.47,Moderate,42.74,62.81,48.57,33.47,33.11,1.69
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-08-01,49.57,Good,32.65,45.96,44.64,24.2,26.19,0.95
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-09-01,57.62,Moderate,34.12,58.1,20.53,10.82,11.26,0.63
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-09-01,81.2,Moderate,59.23,65.86,30.15,45.8,6.12,0.62
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-09-01,57.58,Moderate,26.08,42.42,49.94,38.55,24.88,1.64
+Salem,Salem - AQ Station,11.6643,78.1456,2022-09-01,47.45,Good,30.24,34.14,49.84,28.43,12.02,2.64
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-09-01,40.67,Good,19.89,40.29,45.2,48.75,9.08,0.55
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-09-01,66.99,Moderate,39.34,65.1,22.08,31.23,16.8,1.87
+Erode,Erode - AQ Station,11.3919,77.7172,2022-09-01,93.91,Moderate,51.73,84.1,31.73,20.76,14.34,2.97
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-09-01,98.53,Moderate,56.64,87.24,27.88,30.44,30.07,1.38
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-09-01,74.28,Moderate,45.33,78.42,46.5,45.24,27.97,1.59
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-09-01,59.04,Moderate,36.1,55.08,47.05,26.51,24.09,2.8
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-10-01,56.24,Moderate,33.77,56.76,31.57,36.75,33.26,2.52
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-10-01,114.86,Unhealthy for Sensitive,76.95,89.73,27.24,12.27,29.11,2.29
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-10-01,52.91,Moderate,30.88,50.62,52.05,49.32,24.47,2.37
+Salem,Salem - AQ Station,11.6643,78.1456,2022-10-01,129.85,Unhealthy for Sensitive,74.87,114.18,22.64,14.02,29.67,1.47
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-10-01,89.28,Moderate,54.59,68.18,34.88,31.87,12.33,2.76
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-10-01,65.33,Moderate,45.48,56.8,53.26,30.56,20.22,0.76
+Erode,Erode - AQ Station,11.3919,77.7172,2022-10-01,69.8,Moderate,40.3,55.02,54.95,38.13,21.82,0.88
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-10-01,84.7,Moderate,51.84,75.69,42.1,48.34,9.56,1.43
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-10-01,95.76,Moderate,54.61,63.03,43.65,22.85,14.17,2.55
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-10-01,94.14,Moderate,54.57,70.33,47.06,40.05,5.35,1.43
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-11-01,55.38,Moderate,42.57,44.47,38.35,30.67,28.76,2.62
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-11-01,59.15,Moderate,30.11,40.18,23.96,47.11,20.59,1.65
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-11-01,51.9,Moderate,23.56,30.06,50.25,31.91,14.99,1.28
+Salem,Salem - AQ Station,11.6643,78.1456,2022-11-01,76.63,Moderate,44.99,64.09,52.73,25.57,23.68,1.2
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-11-01,57.27,Moderate,40.83,46.11,25.86,38.13,26.98,2.03
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-11-01,57.05,Moderate,35.72,41.6,47.47,42.15,16.2,1.91
+Erode,Erode - AQ Station,11.3919,77.7172,2022-11-01,87.22,Moderate,55.13,68.66,44.43,12.32,35.36,1.46
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-11-01,82.71,Moderate,49.53,60.09,55.11,34.11,20.07,0.62
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-11-01,65.74,Moderate,42.14,44.94,33.81,19.09,39.25,1.96
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-11-01,77.38,Moderate,48.29,58.43,34.46,43.63,8.1,1.2
+Chennai,Chennai - AQ Station,13.0827,80.2707,2022-12-01,91.73,Moderate,57.74,76.24,55.43,35.88,22.54,1.12
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2022-12-01,35.69,Good,16.79,14.59,37.16,38.83,11.28,0.97
+Madurai,Madurai - AQ Station,9.9252,78.1198,2022-12-01,74.1,Moderate,37.17,57.94,38.07,47.23,25.42,1.62
+Salem,Salem - AQ Station,11.6643,78.1456,2022-12-01,80.2,Moderate,49.28,58.33,42.99,37.98,29.7,2.66
+Trichy,Trichy - AQ Station,10.7905,78.696,2022-12-01,62.9,Moderate,33.75,33.19,40.64,23.39,19.51,1.96
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2022-12-01,79.28,Moderate,47.9,57.09,41.42,37.22,38.08,1.9
+Erode,Erode - AQ Station,11.3919,77.7172,2022-12-01,52.78,Moderate,37.13,44.59,23.21,36.95,8.97,2.34
+Vellore,Vellore - AQ Station,12.9716,79.1339,2022-12-01,66.1,Moderate,43.41,42.11,41.19,12.23,14.98,2.36
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2022-12-01,29.46,Good,12.78,31.46,29.39,47.31,39.41,1.84
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2022-12-01,48.28,Good,28.81,32.88,21.99,11.32,36.17,1.83
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-01-01,45.31,Good,30.0,34.34,50.1,15.77,38.86,2.43
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-01-01,45.06,Good,30.43,35.63,36.66,22.58,10.98,0.75
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-01-01,53.79,Moderate,30.63,45.15,41.53,47.73,39.16,2.1
+Salem,Salem - AQ Station,11.6643,78.1456,2023-01-01,70.85,Moderate,55.52,64.21,57.73,12.69,26.84,2.55
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-01-01,37.03,Good,23.65,30.27,48.87,14.89,16.82,0.51
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-01-01,61.3,Moderate,42.3,44.08,25.66,40.9,37.11,2.0
+Erode,Erode - AQ Station,11.3919,77.7172,2023-01-01,56.73,Moderate,40.72,53.23,46.73,36.58,30.39,2.8
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-01-01,59.74,Moderate,37.53,52.1,36.3,27.62,5.19,1.37
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-01-01,43.19,Good,20.87,41.18,31.0,27.35,31.94,1.97
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-01-01,71.68,Moderate,42.22,57.28,59.95,23.07,8.09,2.81
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-02-01,59.05,Moderate,31.26,58.57,25.96,21.84,33.16,1.81
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-02-01,49.13,Good,30.65,30.89,50.49,33.1,8.32,1.38
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-02-01,55.52,Moderate,39.46,50.69,38.24,35.17,34.74,2.25
+Salem,Salem - AQ Station,11.6643,78.1456,2023-02-01,92.03,Moderate,67.72,76.36,58.58,41.72,35.51,1.97
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-02-01,63.62,Moderate,37.23,51.05,26.77,32.28,27.8,2.03
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-02-01,19.27,Good,10.64,13.36,49.28,43.21,8.54,0.53
+Erode,Erode - AQ Station,11.3919,77.7172,2023-02-01,49.82,Good,32.38,53.04,47.86,21.53,20.85,1.38
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-02-01,36.07,Good,21.38,23.16,45.33,16.64,25.3,2.99
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-02-01,35.78,Good,31.35,20.82,50.1,16.79,33.55,1.04
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-02-01,46.07,Good,28.85,29.63,59.53,21.27,23.4,1.37
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-03-01,66.21,Moderate,45.03,54.83,28.38,11.97,12.26,1.49
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-03-01,96.68,Moderate,62.21,84.7,51.17,42.76,20.95,1.37
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-03-01,28.43,Good,15.91,16.51,55.41,46.7,19.19,2.13
+Salem,Salem - AQ Station,11.6643,78.1456,2023-03-01,37.62,Good,23.38,36.36,23.02,14.98,23.01,1.65
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-03-01,77.2,Moderate,53.04,59.32,57.78,17.88,20.4,2.13
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-03-01,72.94,Moderate,43.17,47.66,55.51,26.4,21.3,1.02
+Erode,Erode - AQ Station,11.3919,77.7172,2023-03-01,67.42,Moderate,30.76,54.15,48.19,14.03,25.99,1.02
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-03-01,69.41,Moderate,40.33,60.65,33.28,29.83,36.94,1.13
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-03-01,43.4,Good,12.95,37.32,26.65,10.12,19.73,0.65
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-03-01,42.27,Good,23.14,38.56,28.44,31.95,26.85,0.6
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-04-01,78.58,Moderate,45.22,65.76,34.96,38.16,24.06,0.68
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-04-01,37.07,Good,22.25,16.75,38.07,20.76,7.69,2.26
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-04-01,80.02,Moderate,51.26,72.13,35.69,13.4,21.4,2.24
+Salem,Salem - AQ Station,11.6643,78.1456,2023-04-01,76.44,Moderate,37.84,58.03,43.99,47.39,22.1,1.18
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-04-01,80.86,Moderate,44.74,64.58,23.75,30.1,16.77,0.97
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-04-01,38.66,Good,21.79,26.1,42.72,28.15,25.09,1.12
+Erode,Erode - AQ Station,11.3919,77.7172,2023-04-01,82.48,Moderate,50.72,58.96,48.2,38.82,38.44,1.96
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-04-01,64.53,Moderate,33.83,40.44,30.93,35.47,22.9,2.79
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-04-01,75.64,Moderate,48.81,65.17,50.77,19.22,8.06,1.93
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-04-01,65.81,Moderate,46.13,56.58,55.25,23.4,9.4,1.95
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-05-01,39.96,Good,21.92,39.15,30.31,45.69,38.39,2.33
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-05-01,47.96,Good,28.9,46.26,28.61,31.7,9.95,1.1
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-05-01,106.11,Unhealthy for Sensitive,67.04,84.43,43.26,47.21,12.22,1.96
+Salem,Salem - AQ Station,11.6643,78.1456,2023-05-01,61.29,Moderate,43.24,45.94,56.46,12.29,24.11,0.78
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-05-01,83.34,Moderate,55.79,72.14,40.34,15.61,25.43,1.73
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-05-01,77.67,Moderate,50.88,71.14,59.46,34.72,14.17,2.61
+Erode,Erode - AQ Station,11.3919,77.7172,2023-05-01,53.53,Moderate,29.64,27.48,35.71,12.2,11.04,1.66
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-05-01,67.74,Moderate,47.84,60.24,34.23,24.75,34.17,0.56
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-05-01,91.32,Moderate,55.16,73.22,42.18,25.25,8.99,1.6
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-05-01,89.71,Moderate,55.54,69.46,55.88,21.8,18.18,1.54
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-06-01,107.05,Unhealthy for Sensitive,66.6,95.5,51.79,42.24,28.26,2.2
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-06-01,59.42,Moderate,38.72,39.98,25.7,37.41,12.61,2.01
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-06-01,76.69,Moderate,43.91,65.84,32.86,39.23,24.37,0.97
+Salem,Salem - AQ Station,11.6643,78.1456,2023-06-01,39.79,Good,19.65,43.84,25.65,29.73,7.18,1.0
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-06-01,88.61,Moderate,54.15,68.19,48.21,17.48,12.53,1.95
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-06-01,118.64,Unhealthy for Sensitive,69.62,94.82,32.73,31.95,8.47,2.64
+Erode,Erode - AQ Station,11.3919,77.7172,2023-06-01,104.63,Unhealthy for Sensitive,62.79,73.24,28.12,26.74,28.59,1.35
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-06-01,75.35,Moderate,45.64,61.04,43.05,14.17,39.76,0.64
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-06-01,74.31,Moderate,48.88,57.64,56.42,49.1,24.91,1.92
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-06-01,73.79,Moderate,40.57,60.55,22.64,47.03,11.71,1.4
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-07-01,135.43,Unhealthy for Sensitive,83.93,101.82,36.49,22.38,22.52,2.62
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-07-01,54.78,Moderate,31.4,44.95,47.42,36.68,26.83,2.6
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-07-01,72.56,Moderate,46.12,61.22,27.22,36.63,8.74,2.93
+Salem,Salem - AQ Station,11.6643,78.1456,2023-07-01,93.82,Moderate,57.38,67.81,50.51,19.13,24.47,0.64
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-07-01,41.59,Good,29.1,35.47,29.89,24.48,38.28,2.98
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-07-01,124.05,Unhealthy for Sensitive,70.66,112.23,45.91,43.46,7.99,1.96
+Erode,Erode - AQ Station,11.3919,77.7172,2023-07-01,107.4,Unhealthy for Sensitive,60.51,90.89,35.17,31.04,10.29,2.07
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-07-01,102.89,Unhealthy for Sensitive,67.68,94.74,52.95,14.11,10.23,2.2
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-07-01,67.4,Moderate,37.97,53.28,46.75,32.75,14.43,2.65
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-07-01,22.39,Good,9.98,20.77,55.42,22.7,32.68,1.78
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-08-01,84.03,Moderate,50.92,69.73,26.67,39.39,39.41,1.57
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-08-01,42.38,Good,25.93,39.39,45.73,44.57,10.99,1.69
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-08-01,74.63,Moderate,45.55,52.88,23.36,38.8,29.31,1.39
+Salem,Salem - AQ Station,11.6643,78.1456,2023-08-01,51.21,Moderate,25.03,26.92,29.63,13.81,26.03,2.21
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-08-01,107.12,Unhealthy for Sensitive,69.55,89.44,38.44,42.81,25.22,1.04
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-08-01,68.26,Moderate,45.03,53.11,52.66,23.04,14.54,0.68
+Erode,Erode - AQ Station,11.3919,77.7172,2023-08-01,53.64,Moderate,31.34,50.33,23.29,42.08,21.08,2.63
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-08-01,92.56,Moderate,64.47,74.93,25.74,19.34,19.76,1.03
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-08-01,63.44,Moderate,36.39,48.42,36.37,29.31,16.84,1.54
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-08-01,72.36,Moderate,43.49,47.79,21.96,15.07,39.82,2.54
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-09-01,114.93,Unhealthy for Sensitive,76.3,74.61,54.81,34.19,32.89,2.98
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-09-01,81.65,Moderate,46.15,52.89,59.7,33.83,11.7,2.86
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-09-01,101.79,Unhealthy for Sensitive,62.95,88.9,23.89,14.34,35.42,2.8
+Salem,Salem - AQ Station,11.6643,78.1456,2023-09-01,67.75,Moderate,43.92,54.38,40.06,31.85,38.37,2.36
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-09-01,67.26,Moderate,37.39,56.11,21.02,39.09,24.92,2.7
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-09-01,74.0,Moderate,48.11,64.59,21.16,38.29,6.3,0.83
+Erode,Erode - AQ Station,11.3919,77.7172,2023-09-01,60.53,Moderate,39.75,36.04,54.57,36.6,8.93,0.61
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-09-01,114.37,Unhealthy for Sensitive,62.54,83.37,39.9,26.72,18.37,2.37
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-09-01,62.55,Moderate,38.53,40.45,52.73,14.32,26.29,1.85
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-09-01,100.51,Unhealthy for Sensitive,70.61,73.91,20.4,18.51,21.21,2.08
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-10-01,47.92,Good,37.28,46.14,40.75,17.6,28.63,2.56
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-10-01,92.65,Moderate,47.94,72.78,48.17,10.64,9.99,1.7
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-10-01,95.97,Moderate,53.26,78.27,33.09,45.15,7.1,2.09
+Salem,Salem - AQ Station,11.6643,78.1456,2023-10-01,43.91,Good,22.59,37.89,36.59,20.73,18.73,0.63
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-10-01,100.93,Unhealthy for Sensitive,60.01,84.1,56.42,33.13,7.18,1.97
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-10-01,83.59,Moderate,45.6,58.35,32.87,10.04,9.42,2.56
+Erode,Erode - AQ Station,11.3919,77.7172,2023-10-01,90.38,Moderate,49.84,67.61,42.25,49.6,22.69,1.44
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-10-01,49.74,Good,31.58,32.98,32.89,36.05,11.41,1.51
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-10-01,67.93,Moderate,47.06,44.42,48.83,34.68,7.67,2.65
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-10-01,103.14,Unhealthy for Sensitive,67.45,78.8,37.1,46.05,21.4,0.63
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-11-01,39.2,Good,22.25,31.99,43.59,13.15,39.69,2.05
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-11-01,40.78,Good,23.11,47.01,23.02,35.44,29.54,1.09
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-11-01,18.44,Good,9.06,7.15,56.52,41.13,9.22,1.37
+Salem,Salem - AQ Station,11.6643,78.1456,2023-11-01,45.36,Good,25.79,37.43,50.21,19.78,19.13,0.72
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-11-01,45.07,Good,29.5,40.41,36.85,37.93,5.47,1.0
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-11-01,64.87,Moderate,33.48,53.54,45.77,12.28,16.91,0.69
+Erode,Erode - AQ Station,11.3919,77.7172,2023-11-01,58.86,Moderate,35.68,55.57,39.32,19.62,33.29,1.85
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-11-01,46.05,Good,36.28,57.37,34.37,38.44,36.59,2.35
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-11-01,47.04,Good,27.16,32.72,47.59,39.54,37.41,1.6
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-11-01,42.25,Good,22.64,25.13,46.02,32.17,30.17,1.24
+Chennai,Chennai - AQ Station,13.0827,80.2707,2023-12-01,48.69,Good,32.57,29.98,24.84,25.74,39.59,2.35
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2023-12-01,40.73,Good,25.24,36.21,51.03,22.32,22.59,0.51
+Madurai,Madurai - AQ Station,9.9252,78.1198,2023-12-01,64.67,Moderate,40.34,48.91,46.01,15.83,21.5,0.75
+Salem,Salem - AQ Station,11.6643,78.1456,2023-12-01,58.89,Moderate,29.78,38.43,55.13,10.58,11.6,1.76
+Trichy,Trichy - AQ Station,10.7905,78.696,2023-12-01,72.06,Moderate,50.14,44.55,55.96,37.14,18.38,0.7
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2023-12-01,48.28,Good,32.41,30.31,39.55,13.69,20.19,0.85
+Erode,Erode - AQ Station,11.3919,77.7172,2023-12-01,88.9,Moderate,50.93,69.25,24.87,38.63,9.64,0.84
+Vellore,Vellore - AQ Station,12.9716,79.1339,2023-12-01,55.5,Moderate,33.64,36.18,30.18,30.53,36.04,0.87
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2023-12-01,67.61,Moderate,42.75,34.77,36.04,18.23,13.76,1.15
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2023-12-01,60.68,Moderate,36.32,42.3,21.97,28.34,30.8,1.18
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-01-01,38.35,Good,18.38,26.29,28.98,32.64,38.07,2.86
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-01-01,37.14,Good,25.35,32.03,33.72,32.18,39.02,2.69
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-01-01,32.91,Good,17.92,31.93,27.95,19.74,25.84,2.42
+Salem,Salem - AQ Station,11.6643,78.1456,2024-01-01,60.42,Moderate,29.96,47.13,40.18,44.07,11.71,1.39
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-01-01,82.03,Moderate,41.43,62.04,39.01,33.44,25.65,1.58
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-01-01,57.56,Moderate,28.8,50.34,23.62,20.78,20.46,2.01
+Erode,Erode - AQ Station,11.3919,77.7172,2024-01-01,66.16,Moderate,43.07,44.16,34.32,36.11,35.05,2.23
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-01-01,25.19,Good,13.98,26.28,32.9,44.07,34.45,1.86
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-01-01,67.97,Moderate,45.31,61.08,27.84,32.03,13.55,1.04
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-01-01,37.1,Good,22.24,29.98,49.9,11.58,14.07,2.64
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-02-01,79.66,Moderate,48.51,72.34,34.23,18.75,16.4,2.62
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-02-01,34.88,Good,21.48,47.0,49.71,41.89,6.56,2.73
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-02-01,16.35,Good,1.43,13.57,42.55,48.11,12.35,1.09
+Salem,Salem - AQ Station,11.6643,78.1456,2024-02-01,45.92,Good,28.61,33.53,25.09,37.8,27.64,2.51
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-02-01,30.33,Good,19.86,25.8,33.72,47.16,30.33,2.35
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-02-01,69.25,Moderate,47.18,62.73,28.59,49.05,30.66,1.68
+Erode,Erode - AQ Station,11.3919,77.7172,2024-02-01,57.39,Moderate,37.81,30.97,35.68,16.06,25.43,1.05
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-02-01,54.6,Moderate,23.4,25.43,36.96,32.02,5.58,0.76
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-02-01,45.86,Good,33.05,36.17,51.35,43.69,36.29,1.18
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-02-01,60.23,Moderate,35.85,58.16,39.16,37.73,8.3,1.96
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-03-01,55.75,Moderate,32.85,44.92,34.6,33.75,18.66,2.92
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-03-01,38.28,Good,14.81,31.21,20.54,28.09,11.2,2.79
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-03-01,14.07,Good,5.48,9.99,40.19,49.48,27.54,2.67
+Salem,Salem - AQ Station,11.6643,78.1456,2024-03-01,59.36,Moderate,27.88,38.01,42.85,46.97,29.19,0.91
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-03-01,34.48,Good,12.7,26.96,30.34,46.37,14.63,1.57
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-03-01,59.39,Moderate,38.51,41.81,46.22,40.75,29.86,1.54
+Erode,Erode - AQ Station,11.3919,77.7172,2024-03-01,74.76,Moderate,39.78,54.7,51.21,26.54,34.93,2.61
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-03-01,71.33,Moderate,34.72,55.39,36.7,20.69,31.84,2.43
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-03-01,63.11,Moderate,47.87,48.34,44.29,33.6,24.23,1.49
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-03-01,53.42,Moderate,30.92,34.64,47.95,25.44,20.18,0.94
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-04-01,62.61,Moderate,32.76,47.34,55.87,45.09,36.84,0.76
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-04-01,61.97,Moderate,33.7,47.51,39.9,29.08,26.83,0.87
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-04-01,68.51,Moderate,38.35,62.36,29.66,31.12,36.75,0.85
+Salem,Salem - AQ Station,11.6643,78.1456,2024-04-01,50.94,Moderate,30.52,32.19,50.58,43.41,12.81,1.98
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-04-01,34.81,Good,21.42,34.73,47.05,40.91,27.84,0.9
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-04-01,70.02,Moderate,36.78,71.76,21.39,34.08,27.68,2.24
+Erode,Erode - AQ Station,11.3919,77.7172,2024-04-01,52.37,Moderate,37.99,51.66,58.39,48.23,36.6,2.19
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-04-01,43.94,Good,19.52,38.14,39.12,39.22,38.62,1.57
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-04-01,35.78,Good,20.5,23.53,29.27,42.55,38.3,0.79
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-04-01,36.46,Good,23.71,31.66,43.08,11.51,30.08,1.38
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-05-01,79.08,Moderate,53.51,55.82,29.4,32.78,6.32,2.58
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-05-01,97.46,Moderate,66.96,70.89,29.26,48.86,10.8,1.43
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-05-01,18.86,Good,14.42,2.29,35.31,22.11,18.81,0.59
+Salem,Salem - AQ Station,11.6643,78.1456,2024-05-01,87.02,Moderate,54.4,65.65,38.38,34.76,27.36,2.0
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-05-01,106.51,Unhealthy for Sensitive,61.54,91.99,38.34,45.04,27.41,2.9
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-05-01,108.16,Unhealthy for Sensitive,57.45,88.13,38.26,37.26,34.59,1.52
+Erode,Erode - AQ Station,11.3919,77.7172,2024-05-01,121.2,Unhealthy for Sensitive,70.0,100.03,30.44,38.67,17.19,1.92
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-05-01,75.24,Moderate,39.2,58.87,54.3,46.03,29.43,0.95
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-05-01,90.13,Moderate,50.61,71.99,24.94,25.21,6.16,0.81
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-05-01,113.81,Unhealthy for Sensitive,64.16,92.23,28.1,42.34,5.8,0.68
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-06-01,58.72,Moderate,40.58,60.48,30.43,24.13,27.89,2.96
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-06-01,71.24,Moderate,40.82,58.42,52.9,39.91,17.32,1.51
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-06-01,58.76,Moderate,30.84,46.89,57.16,33.82,28.11,1.64
+Salem,Salem - AQ Station,11.6643,78.1456,2024-06-01,118.52,Unhealthy for Sensitive,69.34,78.64,38.29,24.94,18.39,0.68
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-06-01,78.13,Moderate,41.52,76.2,25.74,30.48,21.35,1.78
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-06-01,76.4,Moderate,43.2,53.47,58.64,12.34,7.47,0.81
+Erode,Erode - AQ Station,11.3919,77.7172,2024-06-01,50.14,Moderate,26.41,38.4,20.35,47.06,29.46,2.77
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-06-01,87.98,Moderate,46.51,65.63,47.07,40.01,32.48,0.56
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-06-01,71.32,Moderate,36.99,61.8,30.34,46.9,17.01,2.21
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-06-01,61.98,Moderate,32.62,42.56,33.4,46.09,5.36,1.25
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-07-01,68.63,Moderate,42.68,61.69,31.82,25.46,31.2,2.13
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-07-01,42.18,Good,21.48,34.91,51.63,40.67,33.98,2.26
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-07-01,71.11,Moderate,37.46,55.53,42.84,41.04,12.71,1.18
+Salem,Salem - AQ Station,11.6643,78.1456,2024-07-01,110.14,Unhealthy for Sensitive,69.93,96.29,44.82,16.75,34.63,1.89
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-07-01,111.26,Unhealthy for Sensitive,62.13,91.45,55.45,33.71,6.52,1.71
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-07-01,115.39,Unhealthy for Sensitive,71.92,86.43,38.77,18.2,39.39,2.3
+Erode,Erode - AQ Station,11.3919,77.7172,2024-07-01,119.73,Unhealthy for Sensitive,73.81,81.2,49.13,48.69,12.04,1.3
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-07-01,98.04,Moderate,56.57,97.08,34.56,32.07,14.31,2.56
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-07-01,79.94,Moderate,50.72,56.86,46.97,46.42,13.14,1.13
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-07-01,77.65,Moderate,42.62,60.84,36.25,16.41,16.88,1.73
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-08-01,62.41,Moderate,42.21,58.78,41.45,30.17,13.43,1.66
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-08-01,77.65,Moderate,51.8,69.81,31.06,31.75,30.32,1.68
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-08-01,73.38,Moderate,52.96,58.68,57.26,43.42,12.67,1.11
+Salem,Salem - AQ Station,11.6643,78.1456,2024-08-01,113.24,Unhealthy for Sensitive,67.32,87.99,41.6,34.93,8.43,2.45
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-08-01,89.31,Moderate,54.68,74.99,44.65,37.09,37.7,1.97
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-08-01,104.44,Unhealthy for Sensitive,61.58,80.97,40.83,22.29,10.28,2.28
+Erode,Erode - AQ Station,11.3919,77.7172,2024-08-01,76.18,Moderate,48.29,56.46,52.04,30.53,28.96,1.73
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-08-01,76.65,Moderate,46.81,53.38,30.68,42.61,16.47,2.81
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-08-01,122.28,Unhealthy for Sensitive,75.31,113.63,50.56,42.28,26.01,1.93
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-08-01,63.14,Moderate,33.47,40.48,58.96,24.06,16.08,0.71
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-09-01,68.29,Moderate,44.45,45.62,46.73,30.05,34.59,2.78
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-09-01,55.15,Moderate,34.61,35.08,39.64,18.74,11.03,2.45
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-09-01,68.95,Moderate,41.06,48.6,25.41,48.37,39.02,2.34
+Salem,Salem - AQ Station,11.6643,78.1456,2024-09-01,80.85,Moderate,47.32,59.24,32.83,16.6,12.8,2.1
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-09-01,53.39,Moderate,37.71,54.87,34.2,14.61,35.96,0.89
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-09-01,48.49,Good,30.01,47.1,46.48,20.29,34.16,1.12
+Erode,Erode - AQ Station,11.3919,77.7172,2024-09-01,74.35,Moderate,48.82,70.84,55.31,37.49,33.32,2.31
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-09-01,96.18,Moderate,67.67,71.63,34.92,41.12,21.01,0.53
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-09-01,61.81,Moderate,38.98,61.35,58.18,17.57,17.16,2.57
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-09-01,54.7,Moderate,27.62,54.23,22.25,32.34,39.38,2.66
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-10-01,106.79,Unhealthy for Sensitive,60.3,80.46,51.68,18.83,16.28,1.64
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-10-01,38.56,Good,24.57,41.44,36.81,27.61,30.41,2.06
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-10-01,86.08,Moderate,46.34,58.77,29.63,37.83,31.15,1.25
+Salem,Salem - AQ Station,11.6643,78.1456,2024-10-01,92.31,Moderate,51.46,70.04,35.79,44.08,38.52,2.06
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-10-01,43.2,Good,27.7,37.83,27.9,18.27,16.81,1.86
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-10-01,57.8,Moderate,29.6,62.46,35.08,13.78,9.31,1.93
+Erode,Erode - AQ Station,11.3919,77.7172,2024-10-01,95.88,Moderate,57.04,76.83,48.27,46.74,16.98,2.23
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-10-01,50.37,Moderate,24.03,36.21,44.19,38.89,8.99,1.3
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-10-01,78.46,Moderate,48.23,58.61,53.26,33.82,15.47,0.76
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-10-01,72.48,Moderate,49.08,69.02,40.95,14.21,22.32,2.32
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-11-01,63.02,Moderate,35.79,42.39,38.9,18.03,19.73,1.63
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-11-01,74.84,Moderate,52.67,56.94,46.18,20.17,38.99,1.0
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-11-01,25.41,Good,15.21,12.1,34.93,14.84,17.18,2.68
+Salem,Salem - AQ Station,11.6643,78.1456,2024-11-01,64.43,Moderate,41.13,54.76,47.87,49.48,17.57,2.03
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-11-01,77.35,Moderate,42.14,49.95,44.8,48.2,20.83,2.77
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-11-01,73.48,Moderate,36.72,62.46,40.03,38.42,7.75,1.48
+Erode,Erode - AQ Station,11.3919,77.7172,2024-11-01,67.8,Moderate,41.55,51.06,46.34,48.92,19.34,1.58
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-11-01,50.38,Moderate,30.43,28.18,49.19,16.76,28.27,0.68
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-11-01,53.66,Moderate,35.65,41.85,45.12,37.39,30.56,1.14
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-11-01,46.05,Good,20.39,30.97,29.96,35.94,28.08,1.92
+Chennai,Chennai - AQ Station,13.0827,80.2707,2024-12-01,86.22,Moderate,52.61,70.44,51.55,41.31,14.18,2.27
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2024-12-01,43.29,Good,19.21,25.11,53.47,13.43,34.07,2.22
+Madurai,Madurai - AQ Station,9.9252,78.1198,2024-12-01,47.63,Good,30.35,35.33,56.44,25.42,13.17,1.37
+Salem,Salem - AQ Station,11.6643,78.1456,2024-12-01,54.55,Moderate,24.98,47.84,39.96,29.37,35.94,2.65
+Trichy,Trichy - AQ Station,10.7905,78.696,2024-12-01,31.3,Good,18.63,30.23,21.64,41.65,32.41,1.77
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2024-12-01,25.67,Good,10.59,11.31,47.11,32.03,24.62,1.3
+Erode,Erode - AQ Station,11.3919,77.7172,2024-12-01,56.84,Moderate,34.16,42.11,47.46,22.93,9.84,2.52
+Vellore,Vellore - AQ Station,12.9716,79.1339,2024-12-01,69.76,Moderate,32.26,59.81,25.36,19.54,23.75,1.8
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2024-12-01,39.2,Good,31.23,22.39,30.63,42.49,37.97,0.68
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2024-12-01,42.2,Good,28.71,18.88,53.85,21.26,7.88,2.36
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-01-01,78.27,Moderate,43.98,57.32,43.7,42.09,12.01,1.84
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-01-01,76.9,Moderate,46.83,65.68,26.87,20.49,18.34,0.61
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-01-01,41.18,Good,23.84,42.51,55.44,22.97,9.01,0.58
+Salem,Salem - AQ Station,11.6643,78.1456,2025-01-01,64.92,Moderate,46.42,43.16,25.37,43.1,33.94,1.25
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-01-01,48.07,Good,38.14,27.98,45.72,14.63,19.19,1.48
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-01-01,66.13,Moderate,38.52,48.98,40.1,32.85,27.21,0.97
+Erode,Erode - AQ Station,11.3919,77.7172,2025-01-01,75.67,Moderate,50.83,67.2,28.97,49.24,17.64,2.91
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-01-01,36.77,Good,29.29,22.47,23.42,28.82,15.79,2.56
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-01-01,42.69,Good,32.82,32.58,59.27,29.08,9.95,2.08
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-01-01,82.83,Moderate,46.73,65.49,37.74,22.35,25.84,0.58
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-02-01,48.03,Good,26.02,37.21,41.64,19.95,8.79,0.56
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-02-01,56.93,Moderate,31.82,48.85,55.74,17.18,15.66,0.85
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-02-01,41.75,Good,21.33,33.05,22.54,26.1,16.05,1.08
+Salem,Salem - AQ Station,11.6643,78.1456,2025-02-01,60.23,Moderate,37.75,48.92,26.21,11.33,30.67,1.2
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-02-01,62.6,Moderate,29.33,49.06,26.87,14.29,28.42,2.61
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-02-01,36.02,Good,29.53,19.8,23.36,42.4,13.57,1.8
+Erode,Erode - AQ Station,11.3919,77.7172,2025-02-01,57.76,Moderate,35.84,57.62,43.53,32.96,11.82,2.07
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-02-01,52.93,Moderate,29.0,43.4,48.07,19.0,6.9,2.09
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-02-01,37.83,Good,18.14,22.67,40.32,15.38,28.62,2.96
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-02-01,42.07,Good,32.21,54.34,59.57,10.92,18.02,1.44
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-03-01,55.05,Moderate,36.51,39.03,20.17,21.12,13.55,0.77
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-03-01,75.24,Moderate,39.58,69.68,24.4,13.15,32.86,0.95
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-03-01,55.18,Moderate,28.1,34.74,55.4,48.81,6.78,2.94
+Salem,Salem - AQ Station,11.6643,78.1456,2025-03-01,40.68,Good,23.2,37.44,58.88,33.19,16.78,1.4
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-03-01,30.46,Good,19.27,28.35,41.44,14.31,35.98,1.47
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-03-01,65.08,Moderate,41.47,58.37,44.82,28.47,9.87,0.6
+Erode,Erode - AQ Station,11.3919,77.7172,2025-03-01,47.41,Good,33.78,35.04,52.23,49.52,35.3,1.69
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-03-01,64.86,Moderate,45.85,39.1,46.86,13.03,5.3,2.55
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-03-01,64.91,Moderate,31.68,45.23,57.63,10.86,28.8,1.9
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-03-01,24.31,Good,19.64,22.11,38.91,30.95,29.97,1.18
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-04-01,73.84,Moderate,35.41,49.96,28.71,34.42,15.33,1.28
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-04-01,46.3,Good,30.82,33.69,49.46,25.44,20.17,2.46
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-04-01,36.57,Good,14.19,25.85,21.17,13.02,30.2,1.83
+Salem,Salem - AQ Station,11.6643,78.1456,2025-04-01,47.31,Good,28.25,32.02,35.1,11.97,16.87,2.31
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-04-01,73.46,Moderate,40.97,69.65,41.64,43.26,14.35,2.67
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-04-01,38.62,Good,27.59,35.62,33.66,31.86,17.87,1.6
+Erode,Erode - AQ Station,11.3919,77.7172,2025-04-01,55.25,Moderate,32.74,53.69,37.49,20.45,6.55,2.18
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-04-01,55.69,Moderate,28.63,24.01,44.11,48.58,27.5,2.55
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-04-01,53.63,Moderate,33.82,41.5,53.78,32.87,13.1,2.01
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-04-01,47.01,Good,28.23,47.67,20.45,48.71,33.57,1.28
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-05-01,82.95,Moderate,46.07,59.59,39.43,46.29,15.94,1.95
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-05-01,78.44,Moderate,49.15,63.91,59.45,38.79,26.17,2.4
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-05-01,50.75,Moderate,36.47,28.26,38.4,32.56,34.25,2.35
+Salem,Salem - AQ Station,11.6643,78.1456,2025-05-01,127.37,Unhealthy for Sensitive,72.38,98.23,47.07,45.63,29.17,0.93
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-05-01,68.05,Moderate,40.63,44.91,52.66,23.8,33.33,1.8
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-05-01,90.51,Moderate,51.72,84.63,52.04,28.34,18.17,2.17
+Erode,Erode - AQ Station,11.3919,77.7172,2025-05-01,47.66,Good,25.49,45.16,53.06,26.31,30.53,2.96
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-05-01,67.58,Moderate,51.16,56.68,28.91,13.58,7.31,2.09
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-05-01,105.51,Unhealthy for Sensitive,66.85,83.02,46.45,45.94,39.48,2.22
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-05-01,103.27,Unhealthy for Sensitive,71.72,79.57,59.2,31.12,28.39,1.01
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-06-01,79.26,Moderate,42.61,71.55,31.08,47.03,16.39,0.78
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-06-01,68.93,Moderate,42.3,64.96,34.94,16.53,12.88,2.54
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-06-01,81.42,Moderate,51.03,59.8,20.11,38.21,15.43,2.63
+Salem,Salem - AQ Station,11.6643,78.1456,2025-06-01,110.83,Unhealthy for Sensitive,72.43,88.5,37.23,46.99,24.08,2.32
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-06-01,102.87,Unhealthy for Sensitive,49.12,74.47,54.42,17.92,24.3,0.8
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-06-01,74.58,Moderate,49.39,63.07,33.06,17.53,37.72,0.98
+Erode,Erode - AQ Station,11.3919,77.7172,2025-06-01,95.83,Moderate,64.21,64.59,58.34,20.43,7.68,0.82
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-06-01,53.6,Moderate,31.41,43.17,25.69,14.93,27.73,0.83
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-06-01,72.71,Moderate,49.85,41.59,33.49,39.15,6.45,1.29
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-06-01,78.81,Moderate,50.93,48.13,30.49,10.4,16.78,2.03
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-07-01,91.3,Moderate,50.89,74.98,22.53,17.59,17.5,0.78
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-07-01,87.89,Moderate,48.23,77.06,28.26,34.54,38.75,2.31
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-07-01,53.18,Moderate,32.51,40.99,43.13,45.02,24.56,2.41
+Salem,Salem - AQ Station,11.6643,78.1456,2025-07-01,76.95,Moderate,51.74,72.58,50.13,46.98,10.29,2.74
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-07-01,97.63,Moderate,64.93,77.31,33.05,20.52,36.83,0.85
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-07-01,86.28,Moderate,66.99,74.3,46.55,29.2,36.19,1.17
+Erode,Erode - AQ Station,11.3919,77.7172,2025-07-01,77.35,Moderate,40.67,62.52,20.43,43.26,37.8,2.55
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-07-01,110.54,Unhealthy for Sensitive,76.04,91.41,27.41,44.15,16.3,1.32
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-07-01,71.29,Moderate,40.28,47.58,31.45,46.85,23.55,2.15
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-07-01,70.96,Moderate,39.76,47.7,31.47,24.66,39.38,2.27
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-08-01,97.03,Moderate,60.5,89.05,28.37,11.23,22.84,2.48
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-08-01,70.99,Moderate,44.09,54.53,22.55,20.06,39.96,1.86
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-08-01,62.06,Moderate,36.53,49.58,37.48,49.37,34.15,2.83
+Salem,Salem - AQ Station,11.6643,78.1456,2025-08-01,101.33,Unhealthy for Sensitive,63.38,94.14,32.43,15.56,29.64,1.13
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-08-01,107.89,Unhealthy for Sensitive,70.57,80.63,23.63,15.48,17.31,1.47
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-08-01,73.85,Moderate,39.9,63.83,48.02,28.54,25.39,2.29
+Erode,Erode - AQ Station,11.3919,77.7172,2025-08-01,86.63,Moderate,51.41,58.6,39.59,44.8,16.96,1.43
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-08-01,74.05,Moderate,43.78,58.73,55.46,46.9,31.77,1.69
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-08-01,74.74,Moderate,49.6,59.82,37.34,47.46,24.08,2.72
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-08-01,54.97,Moderate,38.12,40.19,46.53,34.58,17.09,2.72
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-09-01,56.64,Moderate,33.22,43.31,22.0,20.48,8.88,0.76
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-09-01,123.5,Unhealthy for Sensitive,70.83,92.56,23.62,49.75,7.1,0.58
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-09-01,109.53,Unhealthy for Sensitive,68.29,83.07,24.99,49.09,10.3,0.77
+Salem,Salem - AQ Station,11.6643,78.1456,2025-09-01,112.62,Unhealthy for Sensitive,60.13,90.53,47.25,35.92,24.91,1.19
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-09-01,108.4,Unhealthy for Sensitive,68.38,66.44,52.55,27.15,32.75,1.0
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-09-01,88.27,Moderate,58.49,73.0,59.24,35.6,34.03,2.94
+Erode,Erode - AQ Station,11.3919,77.7172,2025-09-01,103.35,Unhealthy for Sensitive,61.75,81.35,21.38,24.52,38.61,2.76
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-09-01,70.66,Moderate,49.12,63.1,59.94,14.86,24.73,2.62
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-09-01,83.48,Moderate,51.01,58.06,30.39,45.79,5.76,2.87
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-09-01,73.32,Moderate,41.2,62.45,31.75,30.56,32.61,0.64
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-10-01,118.82,Unhealthy for Sensitive,69.33,100.29,40.11,41.91,29.17,1.07
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-10-01,111.01,Unhealthy for Sensitive,62.53,89.75,46.56,10.46,9.16,1.09
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-10-01,41.99,Good,23.86,31.22,52.87,23.22,29.35,1.71
+Salem,Salem - AQ Station,11.6643,78.1456,2025-10-01,75.34,Moderate,47.41,60.86,35.21,27.06,38.82,1.89
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-10-01,124.98,Unhealthy for Sensitive,66.83,109.36,58.38,28.94,16.67,0.5
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-10-01,69.87,Moderate,41.42,58.44,54.22,31.84,34.01,2.68
+Erode,Erode - AQ Station,11.3919,77.7172,2025-10-01,83.13,Moderate,54.38,66.33,50.04,33.26,30.14,1.9
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-10-01,59.41,Moderate,35.56,36.12,25.03,28.47,7.66,1.51
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-10-01,81.02,Moderate,55.4,59.93,47.28,35.58,6.17,1.9
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-10-01,40.72,Good,20.9,33.45,38.0,33.74,15.43,0.91
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-11-01,57.16,Moderate,36.22,53.02,36.73,11.39,27.6,1.27
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-11-01,74.66,Moderate,48.95,69.16,45.37,49.37,27.99,2.16
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-11-01,67.1,Moderate,38.7,53.02,34.6,29.39,39.17,1.31
+Salem,Salem - AQ Station,11.6643,78.1456,2025-11-01,69.05,Moderate,41.32,54.67,58.28,38.76,30.43,1.42
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-11-01,63.85,Moderate,37.38,47.78,49.4,42.67,37.08,2.65
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-11-01,63.08,Moderate,32.48,52.73,57.3,33.51,26.44,2.87
+Erode,Erode - AQ Station,11.3919,77.7172,2025-11-01,64.2,Moderate,28.24,52.48,40.96,21.05,34.28,2.81
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-11-01,52.75,Moderate,31.93,33.74,39.08,35.65,11.36,2.29
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-11-01,47.76,Good,27.3,38.19,33.87,24.4,17.1,0.99
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-11-01,29.43,Good,18.74,15.62,50.42,36.32,17.59,1.35
+Chennai,Chennai - AQ Station,13.0827,80.2707,2025-12-01,54.48,Moderate,29.5,50.7,27.24,15.34,31.95,2.67
+Coimbatore,Coimbatore - AQ Station,11.0081,76.9366,2025-12-01,31.06,Good,19.9,26.78,42.93,42.84,12.12,1.67
+Madurai,Madurai - AQ Station,9.9252,78.1198,2025-12-01,65.33,Moderate,38.09,54.04,42.14,39.74,25.43,2.97
+Salem,Salem - AQ Station,11.6643,78.1456,2025-12-01,45.01,Good,33.91,23.22,30.97,20.6,12.52,1.66
+Trichy,Trichy - AQ Station,10.7905,78.696,2025-12-01,58.9,Moderate,38.12,50.77,45.18,44.54,8.57,1.62
+Tiruppur,Tiruppur - AQ Station,11.1085,77.3411,2025-12-01,67.75,Moderate,33.79,47.04,37.77,18.01,37.04,1.43
+Erode,Erode - AQ Station,11.3919,77.7172,2025-12-01,64.32,Moderate,45.77,49.65,54.94,34.26,34.07,2.44
+Vellore,Vellore - AQ Station,12.9716,79.1339,2025-12-01,80.47,Moderate,47.02,80.34,50.94,19.07,18.32,2.34
+Kanyakumari,Kanyakumari - AQ Station,8.0883,77.5385,2025-12-01,63.96,Moderate,35.51,54.01,45.82,34.53,27.31,1.42
+Dindigul,Dindigul - AQ Station,10.3596,77.9739,2025-12-01,38.78,Good,20.94,37.53,27.27,31.16,17.35,2.44
