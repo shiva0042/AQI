@@ -5,7 +5,7 @@ Comprehensive Air Quality Index Analysis with Machine Learning for Tamil Nadu Re
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![web](https://aqitngovt.streamlit.app/)
+(https://aqitngovt.streamlit.app/)
 ## 📋 Project Overview
 
 This project provides an in-depth analysis of Air Quality Index (AQI) data across Tamil Nadu state from 2020 to 2025. It combines exploratory data analysis, machine learning models, and interactive visualizations to provide actionable insights into air quality patterns and trends.
